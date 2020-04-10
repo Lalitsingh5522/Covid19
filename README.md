@@ -2,7 +2,7 @@
 Analysis of covid19
 
 
-# important packages to insall first...
+# Important packages to insall first...
 
     pip install pandas
 
