@@ -25,5 +25,8 @@ Analysis of covid19
           
     use google colabs or kaggle notebook
 
+    
+    
+    Both Idle (.py) and jupyter(.ipynb) files are provided use any...
 
 Happy coading...... ;)
