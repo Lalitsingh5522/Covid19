@@ -2,7 +2,8 @@
 Analysis of covid19
 
 # Better understanding..
-    for better under standing of code feel free to visit my blog https://lucky5522.blogspot.com/2020/04/coronavirus-covid19-data-analysis-python.html
+    for better under standing of code feel free to visit my blog AsaanHai
+    visit:- https://lucky5522.blogspot.com/2020/04/coronavirus-covid19-data-analysis-python.html
 
 
 # Important packages to insall first...
