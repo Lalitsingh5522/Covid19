@@ -1,5 +1,5 @@
 # Covid19
-Analysis of covid19
+Analysis of coronavirus spread throught the world
 
 # Better understanding..
     For better understanding of code feel free to visit my blog AsaanHai
